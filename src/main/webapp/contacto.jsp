@@ -103,8 +103,8 @@
 
 
 <nav>
-    <a href="index.html">Inicio</a>
-    <a href="quienes.html">Quiénes somos</a>
+    <a href="index.jsp">Inicio</a>
+    <a href="quienes.jsp">Quiénes somos</a>
     <a href="servicios.jsp">Servicios</a>
     <a href="contacto.jsp">Contacto</a>
 </nav>
