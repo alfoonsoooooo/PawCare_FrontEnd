@@ -61,6 +61,27 @@
             border-radius: 10px;
         }
 
+        /* Estilo para el botón de reservar */
+        .boton-reservar {
+            text-align: center;
+            margin: 40px 0;
+        }
+
+        .boton-reservar a {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+            font-weight: bold;
+        }
+
+        .boton-reservar a:hover {
+            background-color: #45a049;
+        }
+
         footer {
             background-color: #f1f1f1;
             padding: 20px;
@@ -82,6 +103,10 @@
     <a href="quienes.jsp">Quiénes somos</a>
     <a href="servicios.jsp">Servicios</a>
     <a href="contacto.jsp">Contacto</a>
+    <a href="preguntasfrecuentes.jsp">Preguntas Frecuentes</a> <!-- AÑADIDO -->
+    <a href="consejos.jsp">Consejos</a> <!-- nuevo link -->
+    
+    
 </nav>
 
 <div class="container">
@@ -117,6 +142,11 @@
             <li><strong>Protección adicional:</strong> Las cámaras también sirven como seguridad adicional para tu hogar.</li>
         </ul>
     </section>
+
+    <!-- BLOQUE NUEVO: Botón de Reservar -->
+    <div class="boton-reservar">
+        <a href="reservar.jsp">Reservar un Servicio</a>
+    </div>
 
 </div>
 

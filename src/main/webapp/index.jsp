@@ -118,6 +118,10 @@
         <a href="quienes.jsp">Quiénes somos</a>
         <a href="servicios.jsp">Servicios</a>
         <a href="contacto.jsp">Contacto</a>
+        <a href="preguntasfrecuentes.jsp">Preguntas Frecuentes</a> <!-- AÑADIDO -->
+        <a href="consejos.jsp">Consejos</a> <!-- nuevo link -->
+        
+        
     </nav>
 
     <footer>
